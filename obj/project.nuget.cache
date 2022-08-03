@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gk9BNhrgLEE1jFTO57UCXHKnYB17BGquwU6jiyCKj7UhBtPpHO/1xNMn/1RcS3Lymopa64CZdVoA1CEfZEh2/g==",
+  "dgSpecHash": "r9LGNycUdGZFfUVG5yvE8hU1xmmp23TNBGWtp1tQ0khiKJfWTzXR+QqWOCrdXjVCuOB6mnWO7V3uSjR1J09+vA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\project.csproj",
+  "projectFilePath": "D:\\Projects\\HLSL-Shader\\project.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bobi\\.nuget\\packages\\presentationframework\\4.6.0\\presentationframework.4.6.0.nupkg.sha512",
     "C:\\Users\\Bobi\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",

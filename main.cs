@@ -49,7 +49,7 @@ class main
         Device device = new Device(DriverType.Hardware, DeviceCreationFlags.SingleThreaded);
 
         // Create compute shader
-        CompilationResult bytecode = ShaderBytecode.CompileFromFile("C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\shader.hlsl", "CSMain", "cs_5_0"); // (Gotta have the shader-file shader.hlsl be copied to the output directory for this to work)
+        CompilationResult bytecode = ShaderBytecode.CompileFromFile("D:\\Projects\\HLSL-Shader\\shader.hlsl", "CSMain", "cs_5_0"); // (Gotta have the shader-file shader.hlsl be copied to the output directory for this to work)
         ComputeShader shader = new ComputeShader(device, bytecode);
         bytecode.Dispose();
 

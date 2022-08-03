@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\project.csproj": {}
+    "D:\\Projects\\HLSL-Shader\\project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\project.csproj": {
+    "D:\\Projects\\HLSL-Shader\\project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\project.csproj",
+        "projectUniqueName": "D:\\Projects\\HLSL-Shader\\project.csproj",
         "projectName": "project",
-        "projectPath": "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\project.csproj",
+        "projectPath": "D:\\Projects\\HLSL-Shader\\project.csproj",
         "packagesPath": "C:\\Users\\Bobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\obj\\",
+        "outputPath": "D:\\Projects\\HLSL-Shader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\Visual Studio\\Shared\\NuGetPackages"

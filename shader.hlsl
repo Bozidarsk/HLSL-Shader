@@ -32,7 +32,7 @@ float4 frag(v2f IN)
 
 	float scale = 10;
 	float offset = 5;
-	float intensity = 5;
+	float intensity = 10;
 	float falloff = 0.7;
 	float falloffScale = 5;
 
