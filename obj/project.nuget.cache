@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gk9BNhrgLEE1jFTO57UCXHKnYB17BGquwU6jiyCKj7UhBtPpHO/1xNMn/1RcS3Lymopa64CZdVoA1CEfZEh2/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bobi\\Google Drive\\Project\\.cs\\HLSLShader\\project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bobi\\.nuget\\packages\\presentationframework\\4.6.0\\presentationframework.4.6.0.nupkg.sha512",
+    "C:\\Users\\Bobi\\.nuget\\packages\\sharpdx\\4.2.0\\sharpdx.4.2.0.nupkg.sha512",
+    "C:\\Users\\Bobi\\.nuget\\packages\\sharpdx.d3dcompiler\\4.2.0\\sharpdx.d3dcompiler.4.2.0.nupkg.sha512",
+    "C:\\Users\\Bobi\\.nuget\\packages\\sharpdx.direct3d11\\4.2.0\\sharpdx.direct3d11.4.2.0.nupkg.sha512",
+    "C:\\Users\\Bobi\\.nuget\\packages\\sharpdx.dxgi\\4.2.0\\sharpdx.dxgi.4.2.0.nupkg.sha512",
+    "C:\\Users\\Bobi\\.nuget\\packages\\system.drawing.common\\4.0.0\\system.drawing.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\Bobi\\.nuget\\packages\\system.windows.forms\\4.0.0\\system.windows.forms.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

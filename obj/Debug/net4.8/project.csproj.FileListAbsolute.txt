@@ -1,0 +1,17 @@
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.csproj.AssemblyReference.cache
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\project.exe.config
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\project.exe
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\project.pdb
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\SharpDX.dll
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\SharpDX.D3DCompiler.dll
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\SharpDX.Direct3D11.dll
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\SharpDX.DXGI.dll
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\System.Drawing.dll
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.csproj.CopyComplete
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.exe
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\obj\Debug\net4.8\project.pdb
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\PresentationFramework.dll
+C:\Users\Bobi\Google Drive\Project\.cs\HLSLShader\bin\Debug\net4.8\System.Windows.Forms.dll
